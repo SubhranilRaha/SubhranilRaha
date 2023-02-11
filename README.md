@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate developer who loves building things out of code.
+Passionate developer who loves building things out of code.
 
 
 ## 🌐 Socials:
